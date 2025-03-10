@@ -1,0 +1,4 @@
+train: E:\Python\Python_work\yolov11\dataset\images\train
+val: E:\Python\Python_work\yolov11\dataset\images\val
+nc: 2
+names: ['CT','T']
