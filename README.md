@@ -1,2 +1,6 @@
-# pythoncs
- pythoncs蟒瞳超杀
+# pythoncs 蟒瞳超杀
+ 某人无聊写的基于yolo图像识别的ai歪瓜！！！  
+ 成功解决了cs2打的中人的问题   
+ 马圣Grok3起的超级吊炸天的名字  
+# 真·大哥变身器
+ 
